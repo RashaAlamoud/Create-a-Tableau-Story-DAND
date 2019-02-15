@@ -5,7 +5,7 @@ In this project, I used Tableau Software to create an explanatory data visualiza
 ## Installing
 Install Tableau Public Software.
 ## Project Data
-The data set that I selected for analysis is  <a href=https://raw.githubusercontent.com/RashaAlamoud/Create-a-Tableau-Story-DAND/master/noshowappointments-kagglev2-may-2016.csv">No show medical appointments</a>.The data describes 100k medical appointment in Brazil and is focused on whether or not patients showed up for their appointment.A number of characteristics about the patient are included in each row.
+The data set that I selected for analysis is  <a href="https://raw.githubusercontent.com/RashaAlamoud/Create-a-Tableau-Story-DAND/master/noshowappointments-kagglev2-may-2016.csv">No show medical appointments </a>.The data describes 100k medical appointment in Brazil and is focused on whether or not patients showed up for their appointment.A number of characteristics about the patient are included in each row.
 
 
 
