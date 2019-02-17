@@ -9,4 +9,6 @@ The data set that I selected for analysis is  <a href="https://raw.githubusercon
 ## Visualization Data 
 In this project I have used different visualization techniques to communicate insight on no show medical appointments data set , I have analyzed relationship between variables such as Gender , Neighbourhood , Month of Appointment Day for 2016 and No-show. 
 You can see the Tableau report below 
+
+
 <a href="https://github.com/RashaAlamoud/Create-a-Tableau-Story-DAND/blob/master/Project%20Create%20a%20Tableau%20story..pdf"> Tableau Report</a>.
